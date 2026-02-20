@@ -1,6 +1,6 @@
 # Automated Terrace Mapping via Deep Learning (ResNet-50)
 
-**Lead Engineer:** Ngoma Wise Crepin  
+**Built by:** Ngoma Wise Crepin  
 **Project Focus:** Geoinformatics & Soil Erosion Mitigation in Rwanda  
 
 ---
@@ -75,7 +75,18 @@ My Drive/
 ## 4. Data Setup Instructions
 
 ### Download the Dataset
-Obtain the training tiles (Images & Masks) provided via the project source.
+## LiDAR Dataset
+
+You can download the LiDAR orthophotos used in this project here:
+
+[Download LiDAR Data]((https://huggingface.co/datasets/NGOMA-WISE/model_data/tree/main/lidar%20data))
+or use
+[Download LiDAR Data]((https://drive.google.com/file/d/14EMQo1bGRhmY8idq3SiQROUD0vRksYp1/view?usp=sharing, https://drive.google.com/file/d/1I0g3DdGyg_rTrnQlrtnbm1vFqdF6yRYN/view?usp=sharing, https://drive.google.com/file/d/1iaymDd4Knof_6xOsWugDJRoeahN520Yp/view?usp=sharing))
+
+## Training and testing Dataset
+
+You can download the image and masks used in this project here:
+[Download LiDAR Data]((https://drive.google.com/drive/folders/1QWpsT2pvJpx61BYf41K25Qo-VE-vpuAn?usp=sharing, https://drive.google.com/drive/folders/1bcQRxl7UfPmojK--qVMC0cu6z2Dcx3hx?usp=sharing)))
 
 ### Upload to Drive
 - Upload PNG image tiles into `/images/`
