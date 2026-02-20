@@ -79,9 +79,23 @@ My Drive/
 
 You can download the LiDAR orthophotos used in this project here:
 
-[Download LiDAR Data]((https://huggingface.co/datasets/NGOMA-WISE/model_data/tree/main/lidar%20data))
-or use
-[Download LiDAR Data]((https://drive.google.com/file/d/14EMQo1bGRhmY8idq3SiQROUD0vRksYp1/view?usp=sharing, https://drive.google.com/file/d/1I0g3DdGyg_rTrnQlrtnbm1vFqdF6yRYN/view?usp=sharing, https://drive.google.com/file/d/1iaymDd4Knof_6xOsWugDJRoeahN520Yp/view?usp=sharing))
+## Dataset Access
+
+You can access the LiDAR data required for this project using **two options**:
+
+### Option 1: Hugging Face (All Files in One Folder)
+
+[Download LiDAR Data (Hugging Face)](https://huggingface.co/datasets/NGOMA-WISE/model_data/tree/main/lidar%20data)
+
+> This option provides all LiDAR files together in a single folder for convenience.
+
+### Option 2: Google Drive (Individual Files)
+
+- [LiDAR File 1](https://drive.google.com/file/d/14EMQo1bGRhmY8idq3SiQROUD0vRksYp1/view?usp=sharing)  
+- [LiDAR File 2](https://drive.google.com/file/d/1I0g3DdGyg_rTrnQlrtnbm1vFqdF6yRYN/view?usp=sharing)  
+- [LiDAR File 3](https://drive.google.com/file/d/1iaymDd4Knof_6xOsWugDJRoeahN520Yp/view?usp=sharing)
+
+> This option allows downloading individual files separately if needed.
 
 ## Training and testing Dataset
 
