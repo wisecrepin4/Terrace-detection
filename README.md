@@ -19,8 +19,8 @@ This project contributes to soil erosion mitigation, sustainable land management
 
 To replicate this project, use:
 
-- **Google Colab** (Recommended for GPU access)  
-- OR a local machine with GPU support  
+- **Google Colab** (Recommended for GPU access) : click the open with collab then make a copy in your collab notebook 
+- OR a local machine with GPU support : make a fork to run the code and edit the code locally  
 
 ### Required Libraries & Versions
 
